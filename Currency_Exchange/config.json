@@ -1,0 +1,5 @@
+{
+  "currencies":[{"name":"USD", "threshold": 0.1 },{"name":"ILS", "threshold": 0.5},
+    {"name":"EUR", "threshold": 1},{"name":"CZK", "threshold": 0.6}]
+
+}
